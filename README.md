@@ -1,5 +1,4 @@
 # APP PARA LA LOCALIZACIÓN DE PERSONAS A PARTIR DEL RECONOCIMIENTO AUTOMÁTICO DE IMÁGENES, UAH
-### ¡¡ SUBIDA DEL CÓDIGO EN LOS PRÓXIMOS DÍAS !!
 
 ## Resumen
 Aplicación Android para la localización de personas dentro del **Museo Provincial de Guadalajara**, pudiendo servir de plantilla para 
@@ -13,6 +12,9 @@ usuario.
 ## Descargo de responsabilidad
 1. Hace uso de **TensorFlow** y sus derivadas de IA, las cuales tienen su propio soporte.
 2. Hace uso de **Mapbox SDK** para la representación de mapas, la cual tiene su propio soporte.
+3. Errores a consecuencia de la ejecución de la aplicación o el código es responsabilidad individual del usuario que decide instalar o 
+   ejecutar el código (la idea de la apk y código facilitado es que no deberia ocasionar una situación excepcional en la ejecución), no 
+   se suministrará soporte.
 
 ## Requerimientos
 * Versión Android
