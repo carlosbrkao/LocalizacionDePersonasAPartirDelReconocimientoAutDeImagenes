@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">TFGApp</string>
+
+    <string name="TOKEN_MAPBOX_PUBLICO">pk.eyJ1IjoiZGFyd2lucXVlemFkYSIsImEiOiJja2libzZvMXIwYTA5MnJvNTVieWZ6MDh0In0.BvOUJY8W0v_ShUnvm8m22Q</string>
+
+    <string name="carpetaFotosTemporales">FOTOS_TEMP_TFG</string>
+
+    <string name="claveTrasnferenciaImagenCamara">FOTO_CAMARA</string>
+    <string name="claveGuardadoFSplashInicioActivo">fSplashInicioActivo</string>
+    <string name="claveGuardadoFSplashMencionesActivo">fSplashMencionesActivo</string>
+    <string name="claveGuardadoFMenuActivo">fMenuActivo</string>
+    <string name="claveGuardadoFMapaActivo">fMapaActivo</string>
+    <string name="claveGuardadoFTutorialActivo">fTutorialActivo</string>
+    <string name="claveGuardadoFSoporteActivo">fSoporteActivo</string>
+
+    <string name="clavePropiedadFeatureIdentificador">IDENTIFICADOR</string>
+
+    <string name="tituloApp">APP PARA LA LOCALIZACIÓN DE PERSONAS</string>
+    <string name="tituloMenu">MENU</string>
+    <string name="tituloLocalizate">LOCALIZATE</string>
+    <string name="tituloMapa">MAPA</string>
+    <string name="tituloTutorial">TUTORIAL</string>
+    <string name="tituloSoporte">SOPORTE</string>
+    <string name="tituloPopUpSalir">SALIENDO DE LA APLICACIÓN</string>
+    <string name="avisoPopUpSalir">Saliendo de la aplicación\n¿Está seguro de salir de la app?</string>
+    <string name="botonCancelar">CANCELAR</string>
+    <string name="botonSalirApp">SALIR APP</string>
+    <string name="tituloPlantaPrimera">P1</string>
+    <string name="tituloPlantaBaja">PB</string>
+    <string name="tituloPOI">POI</string>
+    <string name="tituloUbicacion">UBICACIÓN</string>
+    <string name="tituloDescripcion">DESCRIPCIÓN</string>
+    <string name="tituloAplicacion">APP</string>
+    <string name="tituloCamara">CÁMARA</string>
+    <string name="tituloTlfSoporte">TELÉFONO DE CONTACTO</string>
+    <string name="tituloTlf">+34 XXX XXX XXX</string>
+    <string name="tituloCorreoSoporte">CORREO DE CONTACTO</string>
+    <string name="tituloCorreo">soporte@dominio.es</string>
+
+    <string name="avisoFotoErronea">FOTO NO VÁLIDA PARA LOCALIZACIÓN</string>
+
+    <string name="tutorialTituloAplicacion">APP LOCALIZACIÓN</string>
+    <string name="tutorialAplicacion">A continuación se explicará el funcionamiento básico de la aplicación.\nDeslizando hacia la derecha se avanzan las pantallas.\n¡EMPEZEMOS!</string>
+    <string name="tutorialTituloMenu">MENU</string>
+    <string name="tutorialMenu">Centro de la aplicación desde donde podemos acceder a cualquier opción clickando sobre esta</string>
+    <string name="tutorialTituloOpcionLocalizate">OPCIÓN LOCALIZATE</string>
+    <string name="tutorialOpcionLocalizate">Esta opción nos permite iniciar el proceso de localización,mostrando el resultado en el mapa.\nConsta de los siguientes pasos:</string>
+    <string name="tutorialTituloTomarFoto">1.TOMAR FOTO</string>
+    <string name="tutorialTomarFoto">Se abre la cámara del dispositivo para tomar una foto de un elemento característico para permitir una fácil localización</string>
+    <string name="tutorialTituloFotoTomada">2.ACEPTAR FOTO</string>
+    <string name="tutorialFotoTomada">Si la foto esta enfocada y representa algo que no sea facilmente repetible la aceptamos.\n(p.e. No tomar foto del suelo o simplement una pared)</string>
+    <string name="tutorialTituloLocalizando">3.PROCESO DE LOCALIZACIÓN</string>
+    <string name="tutorialLocalizando">Se inicia el proceso de localización por el modelo de inteligencia artificial, hay que esperar a que finalice</string>
+    <string name="tutorialTituloLocalizado">4.LOCALIZACIÓN EXITOSA</string>
+    <string name="tutorialLocalizado">En caso de que la imagen sea suficientemente buena, se centra la pantalla sobre la ubicación remarcada por un icono único</string>
+    <string name="tutorialTituloOpcionMapa">OPCIÓN MAPA</string>
+    <string name="tutorialOpcionMapa">Esta opción nos permite desplegar el mapa, permitiendo la libre navegación sobre este</string>
+    <string name="tutorialTituloMapa">MAPA</string>
+    <string name="tutorialMapa">Esta es la vista principal de navegación, mostrando informacion de los puntos de localizacion y distintos controles</string>
+    <string name="tutorialTituloIconoPOI">ICONO POI</string>
+    <string name="tutorialIconoPOI">POI significa Punto de Interes (Point Of Interest) y representa cada punto posible de localizacion</string>
+    <string name="tutorialTituloIconoUbicacion">ICONO UBICACIÓN</string>
+    <string name="tutorialIconoUbicacion">Icono que representa el POI seleccionado o al final de un proceso de localización, la ubicación resultante</string>
+    <string name="tutorialTituloBotonesPisos">NAVEGACIÓN PISOS</string>
+    <string name="tutorialBotonesPisos">Botones para navegar entre las distintas plantas, se indica en verde la actual</string>
+    <string name="tutorialTituloPanelInfo">PANEL INFORMACIÓN POI</string>
+    <string name="tutorialPanelInfo">Panel que refleja la información del poi donde nos ubicamos o hemos seleccionado, tiene la posibilidad de mininizarse y maximizarse con el boton de la esquina inferior izquierda</string>
+    <string name="tutorialTituloCamara">BOTON CÁMARA</string>
+    <string name="tutorialCamara">Boton que permite iniciar en cualquier momento el proceso de localización, como anteriormente se ha explicado</string>
+    <string name="tutorialTituloSoporte">OPCIÓN SOPORTE</string>
+    <string name="tutorialSoporte">Esta opción muestra la información de contacto con el servicio técnico vinculado a la aplicación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

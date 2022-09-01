@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/drawable/celda_tabla_azul.xml" value="0.1" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/drawable/celda_tabla_blanco.xml" value="0.332" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/aplicacion.xml" value="0.1" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/f_app_mapa.xml" value="0.36666666666666664" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/f_app_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/f_app_soporte.xml" value="0.22708333333333333" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/f_app_splash_inicio.xml" value="0.36666666666666664" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/f_app_splash_menciones.xml" value="0.36666666666666664" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/f_app_tutorial.xml" value="0.22708333333333333" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/mapa.xml" value="0.1" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/menu.xml" value="0.1" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/popup_salir_app.xml" value="0.1778115501519757" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/soporte.xml" value="0.1" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/splash_inicio.xml" value="0.22" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/splash_menciones.xml" value="0.25" />
+        <entry key="..\:/TFG/TFGApp/app/src/main/res/layout/tutorial.xml" value="0.1" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/drawable/celda_tabla_azul.xml" value="0.1" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/aplicacion.xml" value="0.3328804347826087" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/elemento_guia.xml" value="0.12083333333333333" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/elemento_porcentaje.xml" value="0.33" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/f_app_camara.xml" value="0.3686200378071834" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/f_app_mapa.xml" value="0.3191176470588235" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/f_app_menu.xml" value="0.3170289855072464" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/f_app_soporte.xml" value="0.3170289855072464" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/f_app_splash_menciones.xml" value="0.5541666666666667" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/f_app_tutorial.xml" value="0.17037037037037037" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/layout/popup_salir_app.xml" value="0.5541666666666667" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/xml/rutas_fichero.xml" value="0.16077898550724637" />
+        <entry key="..\:/TFG/TFGAppLocalizacionPersonas/TFGApp/app/src/main/res/xml/rutas_ficheros.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+{
+"type":"FeatureCollection",
+"name":"POIsPlantaBaja",
+"features":[
+	{"type":"Feature","properties":{"name":"Vestibulo II","description":"Vestibulo II\nPrimera sala de recorrido del museo","type":"VESTIBULO","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168435841798782,40.635902565177695]}},
+	{"type":"Feature","properties":{"name":"Coleccion Sala Permanente I","description":"Coleccion Sala Permanente I\nSegunda sala de recorrido del museo","type":"SALA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1683547049760814,40.63576313806504]}},
+	{"type":"Feature","properties":{"name":"Coleccion Sala Permanente II","description":"Coleccion Sala Permanente II\nTercera sala de recorrido del museo","type":"SALA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168402314186096,40.635670016875075]}},
+	{"type":"Feature","properties":{"name":"Coleccion Sala Permanente III","description":"Coleccion Sala Permanente III\nCuarta sala de recorrido del museo","type":"SALA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1685149669647217,40.63563541443259]}},
+	{"type":"Feature","properties":{"name":"Coleccion Sala Permanente IV","description":"Coleccion Sala Permanente IV\nQuinta sala de recorrido del museo","type":"SALA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168628290295601,40.635600811972175]}},
+	{"type":"Feature","properties":{"name":"Sala de Escipion","description":"Sala de Escipion\nSexta sala de recorrido del museo","type":"SALA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1688086688518524,40.63573107996513]}},
+	{"type":"Feature","properties":{"name":"Sala de Ola","description":"Sala de Ola\nSéptima sala de recorrido del museo","type":"CONTROL","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1688777357339855,40.635839466812406]}},
+	{"type":"Feature","properties":{"name":"Sala de Atlanta","description":"Sala de Atlanta\nÚltima sala de recorrido del museo","type":"SALA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1689266860485077,40.63591579547252]}},
+
+	{"type":"Feature","properties":{"name":"Patio","description":"Patio","type":"PATIO","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168623596429825,40.63580842646567]}},
+	{"type":"Feature","properties":{"name":"Deposito Archivo","description":"Deposito Archivo","type":"DEPoSITO","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1687342375516887,40.63552753611444]}},
+	{"type":"Feature","properties":{"name":"Vestibulo I","description":"Vestibulo I","type":"VESTIBULO","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1684888154268265,40.63597380519584]}},
+	{"type":"Feature","properties":{"name":"Control","description":"Control","type":"CONTROL","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.16843181848526,40.63597889376565]}},
+	{"type":"Feature","properties":{"name":"Habitacion","description":"Habitacion","type":"HABITACIoN","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168448582291603,40.63600586317921]}},
+	{"type":"Feature","properties":{"name":"Area I","description":"Area I","type":"AREA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1685317307710648,40.636013496030124]}},
+	{"type":"Feature","properties":{"name":"Area II","description":"Area II","type":"AREA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1684841215610504,40.636040974286196]}},
+	{"type":"Feature","properties":{"name":"Area III","description":"Area III","type":"AREA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1685055792331696,40.63607761194335]}},
+	{"type":"Feature","properties":{"name":"Area IV","description":"Area IV","type":"AREA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168553188443184,40.63610203703695]}},
+	{"type":"Feature","properties":{"name":"Area V","description":"Areas V","type":"AREA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1687456369400024,40.635627781538446]}},
+	{"type":"Feature","properties":{"name":"Aseos","description":"Aseos","type":"ASEOS","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168564587831497,40.63604860713309]}},
+	{"type":"Feature","properties":{"name":"Pasillo","description":"Pasillo","type":"PASILLO","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1685377657413483,40.636056239979105]}},
+	{"type":"Feature","properties":{"name":"Zaguan prinicipal","description":"Zaguan prinicipal","type":"ZAGUAN","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.16867858171463,40.63602927058591]}},
+	{"type":"Feature","properties":{"name":"Sala de Cronos","description":"Sala de Cronos","type":"SALA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168763741850853,40.63595955719829]}},
+	{"type":"Feature","properties":{"name":"Escaleras","description":"Escaleras","type":"ESCALERAS","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1687872111797333,40.635993650615916]}},
+	{"type":"Feature","properties":{"name":"Almacen I","description":"Almacen I","type":"ALMACEN","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1687959283590312,40.63604148314268]}},
+	{"type":"Feature","properties":{"name":"Saleta de Historia Romana","description":"Saleta de Historia Romana","type":"SALETA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1688200682401657,40.63602570858977]}},
+	{"type":"Feature","properties":{"name":"Sala de las Batallas","description":"Sala de las Batallas","type":"SALA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.16885694861412,40.63596820776859]}},
+	{"type":"Feature","properties":{"name":"Saleta de los Dioses","description":"Saleta de los Dioses","type":"SALETA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168939426541328,40.63598347347817]}},
+	{"type":"Feature","properties":{"name":"Almacen II","description":"Almacen II","type":"ALMACEN","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168979659676552,40.63596922548268]}},
+	{"type":"Feature","properties":{"name":"Galeria de Jaron","description":"Galeria de Jaron","type":"GALERiA","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.1689387559890747,40.63578959870734]}},
+	{"type":"Feature","properties":{"name":"Antiguos aseos","description":"Antiguos aseos","type":"ASEOS","floor":"0"},"geometry":{"type":"Point","coordinates":[-3.168821409344673,40.635602847411526]}}
+]
+}
